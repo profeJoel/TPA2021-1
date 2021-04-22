@@ -21,9 +21,9 @@ public class Escritura {
 
         /**ESCRITURA DENTRO DEL ARCHIVO */
         try {
-            FileWriter escritor = new FileWriter("Archivos/cancionero.txt", true);
-            escritor.write("Torero - Chayanne\n");
-            escritor.write("Noa Noa - Juan Gabriel\n");
+            FileWriter escritor = new FileWriter("Archivos/cancionero.txt", true);//true significa que va a agregar al final del archivo, sino se añade, entonces se sobreescribe
+            //escritor.write("Torero - Chayanne\n");
+            //escritor.write("Noa Noa - Juan Gabriel\n");
             escritor.append("La venia Bendita - Marco Antonio Solis");
             escritor.close();
             System.out.println("La escritura fue realizada con exito");
