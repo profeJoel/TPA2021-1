@@ -1,0 +1,9 @@
+Clase 1 - (08/04/2021) - Presentación de la Asignatura https://youtu.be/G_QTcqwS8Gc
+Clase 2 - (09/04/2021) - Repaso de Programación Orientada a Objetos https://youtu.be/016spxZ5pWc
+
+Clase 3 - (15/04/2021) - Manejo de archivos en Java https://youtu.be/ckTueMbQ4gU
+Clase 4 - (16/04/2021) - Ejemplo de manejo de archivo con POO https://youtu.be/NjrDVZVcSmo
+
+Clase 5 - (22/04/2021) - Ejemplo de manejo de archivo con POO 2 https://youtu.be/4buTFdQmA5c
+Clase 6 - (23/04/2021) - Ejemplo de manejo de archivo con POO 3 https://youtu.be/acM41jYmsAo
+
