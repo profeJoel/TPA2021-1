@@ -7,3 +7,31 @@ Clase 4 - (16/04/2021) - Ejemplo de manejo de archivo con POO https://youtu.be/N
 Clase 5 - (22/04/2021) - Ejemplo de manejo de archivo con POO 2 https://youtu.be/4buTFdQmA5c
 Clase 6 - (23/04/2021) - Ejemplo de manejo de archivo con POO 3 https://youtu.be/acM41jYmsAo
 
+Clase 7 - (29/04/2021) - Ejemplo de manejo de archivo con POO 4 https://youtu.be/SNVKCZSqNyI
+Clase 8 - (30/04/2021) - Fin de Ejemplo de manejo de archivo con POO y Dinámica de trabajo proyecto https://youtu.be/2f8Nst37rRw
+
+--
+Clase 9 - (06/05/2021) - Revisión de los Avances de Equipos Sprint 1 https://youtu.be/XX4ixCtOQmQ
+Clase 10  - (07/05/2021) - Revisión de los Avances de Equipos Sprint 1 https://youtu.be/pr2A5Fn5Wjs
+
+Clase 11 - (13/05/2021) - Pruebas QA, Qué son y cómo Aplicarlas https://youtu.be/wFio_LwK62k
+Clase 12 - (14/05/2021) - Consultas sobre implementación de Pruebas QA https://youtu.be/9st1z6Gilxg
+
+Clase 13 - (27/05/2021) -  Comienzo Sprint 2: UX/UI https://youtu.be/UoaI0NQPTks
+Clase 14 - (28/05/2021) - Revisión de Avances de Mockups UX/UI https://youtu.be/Q49QZyqStUM
+
+Clase 15 - (03/06/2021) - Revisión de Avance Sprint 2 https://youtu.be/DWiF-vOl340
+Clase 16 - (04/06/2021) - Revisión de Avance Sprint 2 https://youtu.be/NF9o3fvUnpQ
+
+--
+Clase 17 - (10/06/2021) - Revisión de Avance del desarrollo Sprint 2 https://youtu.be/CtcT9O-ZxiE
+
+--
+Clase 18 - (17/06/2021) - Revisión del Avance de Desarrollo del Sprint 2 https://youtu.be/bhXFDKawKXI
+Clase 19 - (18/07/2021) - Revisión del Avance de Desarrollo del Sprint 2 https://youtu.be/_ZE4kH9or38
+
+Clase 20 - (24/06/2021) - Pruebas QA Sprint 2 y cómo aplicarlas a interfaces https://youtu.be/qTmj9z6uXzw
+Clase 21 - (25/06/2021) - Consultas sobre implementación de Pruebas QA Sprint 2 https://youtu.be/GDs4OFQqWkM
+
+
+
