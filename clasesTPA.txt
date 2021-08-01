@@ -33,5 +33,11 @@ Clase 19 - (18/07/2021) - Revisión del Avance de Desarrollo del Sprint 2 https:
 Clase 20 - (24/06/2021) - Pruebas QA Sprint 2 y cómo aplicarlas a interfaces https://youtu.be/qTmj9z6uXzw
 Clase 21 - (25/06/2021) - Consultas sobre implementación de Pruebas QA Sprint 2 https://youtu.be/GDs4OFQqWkM
 
+--
+Clase 22 - (15/07/2021) - Introducción a JavaScript https://youtu.be/0id63WuL558
+
+Clase 23 - (22/07/2021) - Introducción a Python https://youtu.be/VabOCfhnWLY
+Clase 24 - (23/07/2021) - Framework Flask https://youtu.be/TlTL7j6Vs3U
+
 
 
